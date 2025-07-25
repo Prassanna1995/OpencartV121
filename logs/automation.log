@@ -1,0 +1,34 @@
+2025-07-23 21:17:39 DEBUG TestNG:82 - suiteXmlPath: "D:\Pavan\Selenium Java\OpencartV121\MainMaster.xml"
+2025-07-23 21:20:28 DEBUG TestNG:82 - suiteXmlPath: "D:\Pavan\Selenium Java\OpencartV121\MainMaster.xml"
+2025-07-23 21:20:32 INFO  TC001_AccountRegistration:16 - ***Starting TC001_AccountRegistration*****
+2025-07-23 21:20:32 DEBUG TC001_AccountRegistration:17 - This is a debug log message
+2025-07-23 21:20:33 INFO  TC001_AccountRegistration:22 - Clicked on MyAccount Link.. 
+2025-07-23 21:20:33 INFO  TC001_AccountRegistration:24 - Clicked on Register Link.. 
+2025-07-23 21:20:33 INFO  TC001_AccountRegistration:26 - Providing customer details...
+2025-07-23 21:20:34 INFO  TC001_AccountRegistration:36 - Validating expected message..
+2025-07-23 21:20:34 INFO  TC001_AccountRegistration:40 - Test Passed
+2025-07-23 21:20:34 INFO  TC001_AccountRegistration:54 - -------Test Completed-------
+2025-07-23 21:20:37 INFO  TC002_LoginTest:13 - ****Starting the TC_002_LoginTest ****
+2025-07-23 21:20:39 INFO  TC002_LoginTest:24 - ******End of TC_002_LoginTest *************
+2025-07-23 21:36:22 DEBUG TestNG:82 - suiteXmlPath: "D:\Pavan\Selenium Java\OpencartV121\MainMaster.xml"
+2025-07-23 21:36:25 INFO  TC001_AccountRegistration:16 - ***Starting TC001_AccountRegistration*****
+2025-07-23 21:36:25 DEBUG TC001_AccountRegistration:17 - This is a debug log message
+2025-07-23 21:36:26 INFO  TC001_AccountRegistration:22 - Clicked on MyAccount Link.. 
+2025-07-23 21:36:26 INFO  TC001_AccountRegistration:24 - Clicked on Register Link.. 
+2025-07-23 21:36:26 INFO  TC001_AccountRegistration:26 - Providing customer details...
+2025-07-23 21:36:27 INFO  TC001_AccountRegistration:36 - Validating expected message..
+2025-07-23 21:36:27 INFO  TC001_AccountRegistration:40 - Test Passed
+2025-07-23 21:36:27 INFO  TC001_AccountRegistration:54 - -------Test Completed-------
+2025-07-23 21:36:30 INFO  TC002_LoginTest:13 - ****Starting the TC_002_LoginTest ****
+2025-07-23 21:36:31 INFO  TC002_LoginTest:24 - ******End of TC_002_LoginTest *************
+2025-07-23 21:43:48 DEBUG TestNG:82 - suiteXmlPath: "D:\Pavan\Selenium Java\OpencartV121\MainMaster.xml"
+2025-07-23 21:43:52 INFO  TC001_AccountRegistration:16 - ***Starting TC001_AccountRegistration*****
+2025-07-23 21:43:52 DEBUG TC001_AccountRegistration:17 - This is a debug log message
+2025-07-23 21:43:52 INFO  TC001_AccountRegistration:22 - Clicked on MyAccount Link.. 
+2025-07-23 21:43:52 INFO  TC001_AccountRegistration:24 - Clicked on Register Link.. 
+2025-07-23 21:43:52 INFO  TC001_AccountRegistration:26 - Providing customer details...
+2025-07-23 21:43:53 INFO  TC001_AccountRegistration:36 - Validating expected message..
+2025-07-23 21:43:53 INFO  TC001_AccountRegistration:40 - Test Passed
+2025-07-23 21:43:53 INFO  TC001_AccountRegistration:54 - -------Test Completed-------
+2025-07-23 21:43:56 INFO  TC002_LoginTest:13 - ****Starting the TC_002_LoginTest ****
+2025-07-23 21:43:58 INFO  TC002_LoginTest:24 - ******End of TC_002_LoginTest *************
